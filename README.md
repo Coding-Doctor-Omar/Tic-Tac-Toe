@@ -1,5 +1,5 @@
 # Instructions
-Aside, from installing python on your computer (obviously), just run main.py and enjoy!
+Aside from installing python on your computer (obviously), just run main.py and enjoy!
 
 In the main menu, type the number of the option you want without space and hit ENTER.
 
