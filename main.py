@@ -53,7 +53,7 @@ def play_game():
             clear_screen()
             print("Bye!")
             time.sleep(1)
-            break
+            sys.exit(0)
 
         if player_move == "menu":
             break
