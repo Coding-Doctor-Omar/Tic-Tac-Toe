@@ -2,6 +2,7 @@ from game_brain import Board, Player
 from art import logo, options
 import os
 import time
+import sys
 
 def clear_screen():
     """Clears the screen"""
@@ -140,6 +141,7 @@ def main():
         clear_screen()
         print("Bye!")
         time.sleep(1)
+        sys.exit(0)
 
 if __name__ == "__main__":
     main()
